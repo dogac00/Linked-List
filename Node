@@ -1,0 +1,13 @@
+class Node(object):
+
+  def __init__(self, data):
+    self.data = data
+    self.next = None
+  
+  def get_next(self):
+  
+  def set_next(self):
+  
+  def get_data(self):
+  
+  def set_data(self):

@@ -1,0 +1,11 @@
+from Linked-List import Node, LinkedList, Main
+
+main()
+
+---- OUTPUT IS ----
+
+Size is 5
+Size is 4
+Remove 15 False
+Size is 4
+Find 25 False
